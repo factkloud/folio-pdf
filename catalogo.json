@@ -82,6 +82,19 @@
         "size": 85431,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t2/mv2faj1l-nota.pdf"
       }
+    },
+    {
+      "id": "81241af3-96f4-49f0-99ca-0c4fb165bb07",
+      "materia": "674fbf5b-4871-4892-bdcb-77a9eb4cf0a0",
+      "titulo": "NOTA",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "NOTA.pdf",
+        "path": "archivos/t2/mv2falqf-nota.pdf",
+        "size": 85431,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t2/mv2falqf-nota.pdf"
+      }
     }
   ]
 }
