@@ -1,12 +1,26 @@
 {
   "materias": [
     {
-      "id": "bc13a21f-0d78-48d9-a5bd-3206de8906ba",
-      "nombre": "Hoario",
+      "id": "bf6a9342-e3e9-4731-8dae-4ab2dbde1dec",
+      "nombre": "Horario",
       "trayecto": "T1-T1",
       "codigo": "",
-      "color": "#E37400"
+      "color": "#188038"
     }
   ],
-  "apuntes": []
+  "apuntes": [
+    {
+      "id": "399c4dc0-f2cf-446a-b8a1-f488c50da9e7",
+      "materia": "bf6a9342-e3e9-4731-8dae-4ab2dbde1dec",
+      "titulo": "T1T1 SECCIÓN A ",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "T1T1 SECCIÓN A .pdf",
+        "path": "archivos/t1-t1/mv2koxvp-t1t1-seccion-a.pdf",
+        "size": 579486,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2koxvp-t1t1-seccion-a.pdf"
+      }
+    }
+  ]
 }
