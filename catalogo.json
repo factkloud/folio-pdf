@@ -135,6 +135,19 @@
         "size": 218755,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2n4b93-plan-de-evaluacion2.pdf"
       }
+    },
+    {
+      "id": "212e9674-4fd6-4e10-a360-2920fbfbd926",
+      "materia": "88701624-be10-44ec-b6d0-670d0be2b38b",
+      "titulo": "Libro de SAMUELSON NORDHAUS",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "Libro de SAMUELSON NORDHAUS",
+        "url": "https://drive.google.com/file/d/1753iDBY1Ks7NhyGQT7vQ7Psuno2mevEC/view?usp=drive_link",
+        "link": true,
+        "size": 0
+      }
     }
   ]
 }
