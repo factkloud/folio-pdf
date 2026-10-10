@@ -96,6 +96,32 @@
         "size": 218755,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2lfo8k-plan-de-evaluacion2.pdf"
       }
+    },
+    {
+      "id": "e7bda993-46d2-4706-b467-6a4d78aaee3c",
+      "materia": "d4c59852-3b10-4c2b-a6c5-12027a282978",
+      "titulo": "MANUAL PROYECTO PNFCP 2026",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "MANUAL PROYECTO PNFCP 2026.pdf",
+        "path": "archivos/proyecto/mv2lks2o-manual-proyecto-pnfcp-2026.pdf",
+        "size": 1797323,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/proyecto/mv2lks2o-manual-proyecto-pnfcp-2026.pdf"
+      }
+    },
+    {
+      "id": "72a30145-59eb-466b-ad3b-58217c7686e0",
+      "materia": "d4c59852-3b10-4c2b-a6c5-12027a282978",
+      "titulo": "FORMATOS PARA SOCIALIZACION T1T3",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "FORMATOS PARA SOCIALIZACION T1T3.docx",
+        "path": "archivos/proyecto/mv2lmh7d-formatos-para-socializacion-t1t3.docx",
+        "size": 261651,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/proyecto/mv2lmh7d-formatos-para-socializacion-t1t3.docx"
+      }
     }
   ]
 }
