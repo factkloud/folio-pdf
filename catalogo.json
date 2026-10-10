@@ -6,6 +6,13 @@
       "trayecto": "T1T1",
       "codigo": "",
       "color": "#1A73E8"
+    },
+    {
+      "id": "0bcae925-594b-4fb6-af65-14ecef29dbfa",
+      "nombre": "Horario",
+      "trayecto": "T1T1",
+      "codigo": "",
+      "color": "#188038"
     }
   ],
   "apuntes": []
