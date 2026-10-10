@@ -161,6 +161,19 @@
         "link": true,
         "size": 0
       }
+    },
+    {
+      "id": "4c9981b2-d6f4-459d-85d7-57cbc5287752",
+      "materia": "88701624-be10-44ec-b6d0-670d0be2b38b",
+      "titulo": "Web del Profesor 2",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "Web del Profesor 2",
+        "url": "https://onedrive.live.com/?id=%2Fpersonal%2F5C76CEADC37353AF%2FDocuments%2FDocumentos%2FMaterial%20académico%20para%20los%20estudiantes%20PNFCP%20UPTM&listurl=%2Fpersonal%2F5C76CEADC37353AF%2FDocuments&viewid=eaf419f0-ccd4-4b6a-a334-e39d9dfe1112&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy81Qzc2Q0VBREMzNzM1M0FGL0VtOEI1OTlWRWt0QWlaOExKbDlZVVBRQkVET2ctZF9CNXYxSVNxSHlKcmY2bVE_ZT1QcURrb3Y&ga=1",
+        "link": true,
+        "size": 0
+      }
     }
   ]
 }
