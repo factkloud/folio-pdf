@@ -1,11 +1,11 @@
 {
   "materias": [
     {
-      "id": "f4f6d7ca-8022-49c3-9701-85daf529c397",
-      "nombre": "Contabilidad 1",
-      "trayecto": "T1T1",
+      "id": "bc13a21f-0d78-48d9-a5bd-3206de8906ba",
+      "nombre": "Hoario",
+      "trayecto": "T1-T1",
       "codigo": "",
-      "color": "#1A73E8"
+      "color": "#E37400"
     }
   ],
   "apuntes": []
