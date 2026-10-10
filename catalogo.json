@@ -61,9 +61,11 @@
     {
       "id": "399c4dc0-f2cf-446a-b8a1-f488c50da9e7",
       "materia": "bf6a9342-e3e9-4731-8dae-4ab2dbde1dec",
-      "titulo": "T1T1 SECCIÓN A ",
+      "titulo": "T1T1 SECCIÓN A",
       "fecha": "2026-10-10",
-      "etiquetas": [],
+      "etiquetas": [
+        "f"
+      ],
       "archivo": {
         "nombre": "T1T1 SECCIÓN A .pdf",
         "path": "archivos/t1-t1/mv2koxvp-t1t1-seccion-a.pdf",
