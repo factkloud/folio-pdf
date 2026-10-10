@@ -48,6 +48,13 @@
       "trayecto": "T1-T1",
       "codigo": "",
       "color": "#1A73E8"
+    },
+    {
+      "id": "d4c59852-3b10-4c2b-a6c5-12027a282978",
+      "nombre": "General",
+      "trayecto": "PROYECTO",
+      "codigo": "",
+      "color": "#C5221F"
     }
   ],
   "apuntes": [
@@ -75,6 +82,19 @@
         "path": "archivos/t1-t1/mv2lflep-plan-de-evaluacion1.pdf",
         "size": 223154,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2lflep-plan-de-evaluacion1.pdf"
+      }
+    },
+    {
+      "id": "74a1d892-3603-4147-b613-eedb3ab171fb",
+      "materia": "ed358336-b67f-464f-94ac-afaa7e65ddf0",
+      "titulo": "Plan de Evaluacion2",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "Plan de Evaluacion2.pdf",
+        "path": "archivos/t1-t1/mv2lfo8k-plan-de-evaluacion2.pdf",
+        "size": 218755,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2lfo8k-plan-de-evaluacion2.pdf"
       }
     }
   ]
