@@ -5,7 +5,7 @@
       "nombre": "Horario",
       "trayecto": "T1-T1",
       "codigo": "",
-      "color": "#188038"
+      "color": "#3949AB"
     },
     {
       "id": "278a38fa-a40f-46a0-aece-59d70033b5d6",
@@ -40,7 +40,7 @@
       "nombre": "Fundamentos de la Economía",
       "trayecto": "T1-T1",
       "codigo": "",
-      "color": "#D93025"
+      "color": "#188038"
     },
     {
       "id": "ed358336-b67f-464f-94ac-afaa7e65ddf0",
@@ -62,6 +62,19 @@
         "path": "archivos/t1-t1/mv2koxvp-t1t1-seccion-a.pdf",
         "size": 579486,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2koxvp-t1t1-seccion-a.pdf"
+      }
+    },
+    {
+      "id": "c594a72f-ebde-4bf1-8fed-a9bb17b3176b",
+      "materia": "ed358336-b67f-464f-94ac-afaa7e65ddf0",
+      "titulo": "Plan de Evaluacion1",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "Plan de Evaluacion1.jfif",
+        "path": "archivos/t1-t1/mv2lbwte-plan-de-evaluacion1.jfif",
+        "size": 220127,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2lbwte-plan-de-evaluacion1.jfif"
       }
     }
   ]
