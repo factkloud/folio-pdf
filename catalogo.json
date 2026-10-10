@@ -19,7 +19,7 @@
       "nombre": "Fundamentos de la Administración",
       "trayecto": "T1-T1",
       "codigo": "",
-      "color": "#D93025"
+      "color": "#188038"
     },
     {
       "id": "56c2a438-87d9-4fc3-a3be-8db6488ba7a4",
@@ -34,6 +34,20 @@
       "trayecto": "T1-T1",
       "codigo": "",
       "color": "#12A4AF"
+    },
+    {
+      "id": "88701624-be10-44ec-b6d0-670d0be2b38b",
+      "nombre": "Fundamentos de la Economía",
+      "trayecto": "T1-T1",
+      "codigo": "",
+      "color": "#D93025"
+    },
+    {
+      "id": "ed358336-b67f-464f-94ac-afaa7e65ddf0",
+      "nombre": "(Proyecto) Análisis  y Ejecución  de los Procesos Contables",
+      "trayecto": "T1-T1",
+      "codigo": "",
+      "color": "#D93025"
     }
   ],
   "apuntes": [
