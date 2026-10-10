@@ -6,6 +6,13 @@
       "trayecto": "T1-T1",
       "codigo": "",
       "color": "#188038"
+    },
+    {
+      "id": "185b6e94-cdbf-4680-84a1-e78653f70177",
+      "nombre": "Contabilidad 1",
+      "trayecto": "T1T1",
+      "codigo": "",
+      "color": "#1A73E8"
     }
   ],
   "apuntes": [
