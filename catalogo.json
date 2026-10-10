@@ -8,11 +8,18 @@
       "color": "#188038"
     },
     {
-      "id": "185b6e94-cdbf-4680-84a1-e78653f70177",
+      "id": "278a38fa-a40f-46a0-aece-59d70033b5d6",
       "nombre": "Contabilidad 1",
-      "trayecto": "T1T1",
+      "trayecto": "T1-T1",
       "codigo": "",
       "color": "#1A73E8"
+    },
+    {
+      "id": "62ff8c10-6cc9-4092-a381-e131ec11fa64",
+      "nombre": "Fundamentos de la Administración",
+      "trayecto": "T1-T1",
+      "codigo": "",
+      "color": "#D93025"
     }
   ],
   "apuntes": [
