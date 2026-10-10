@@ -122,6 +122,19 @@
         "size": 312140,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/proyecto/mv2lp85c-formatos-de-proyecto-socializacion-t1t3.docx"
       }
+    },
+    {
+      "id": "a59026e1-df49-4c97-981c-036f8e5b302d",
+      "materia": "ed358336-b67f-464f-94ac-afaa7e65ddf0",
+      "titulo": "Plan de Evaluacion1",
+      "fecha": "2026-10-10",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "Plan de Evaluacion1.pdf",
+        "path": "archivos/t1-t1/mv2mxfwo-plan-de-evaluacion1.pdf",
+        "size": 222558,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mv2mxfwo-plan-de-evaluacion1.pdf"
+      }
     }
   ]
 }
