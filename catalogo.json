@@ -232,6 +232,14 @@
       "fecha": "2026-12-10",
       "tipo": "TAREA",
       "completada": false
+    },
+    {
+      "id": "3dbfcfce-8df5-4b49-9ea3-5b5f6e93c145",
+      "materia": "56c2a438-87d9-4fc3-a3be-8db6488ba7a4",
+      "titulo": "Ensayo Escrito (Necesidades humanas)",
+      "fecha": "2027-01-21",
+      "tipo": "TAREA",
+      "completada": false
     }
   ]
 }
