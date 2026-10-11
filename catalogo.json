@@ -184,6 +184,14 @@
       "fecha": "2026-10-20",
       "tipo": "TAREA",
       "completada": false
+    },
+    {
+      "id": "3b03cef3-d2a2-4f52-80eb-afc448a5592e",
+      "materia": "88701624-be10-44ec-b6d0-670d0be2b38b",
+      "titulo": "Teoría de la Oferta y demanda 25%",
+      "fecha": "2026-11-10",
+      "tipo": "TAREA",
+      "completada": false
     }
   ]
 }
