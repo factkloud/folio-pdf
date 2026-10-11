@@ -12,7 +12,7 @@
       "nombre": "Contabilidad 1",
       "trayecto": "T1-T1",
       "codigo": "",
-      "color": "#D93025"
+      "color": "#1A73E8"
     },
     {
       "id": "62ff8c10-6cc9-4092-a381-e131ec11fa64",
@@ -26,7 +26,7 @@
       "nombre": "Origen y Evolución de los Sistemas  Socioeconómicos",
       "trayecto": "T1-T1",
       "codigo": "",
-      "color": "#9334E6"
+      "color": "#12A4AF"
     },
     {
       "id": "f80300e4-3041-4b00-a054-12db571c5fa3",
@@ -54,7 +54,7 @@
       "nombre": "General",
       "trayecto": "PROYECTO",
       "codigo": "cccccc",
-      "color": "#C5221F"
+      "color": "#1A73E8"
     }
   ],
   "apuntes": [
