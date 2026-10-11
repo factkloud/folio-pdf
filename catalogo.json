@@ -139,7 +139,7 @@
     {
       "id": "9cecea50-3305-4334-93f8-d66f01745a6b",
       "materia": "88701624-be10-44ec-b6d0-670d0be2b38b",
-      "titulo": "Web del Profesor",
+      "titulo": "Web del Profesor Jorge Luis Altuve",
       "fecha": "2026-10-10",
       "etiquetas": [],
       "archivo": {
@@ -183,7 +183,7 @@
       "titulo": "Conceptos Básicos 25%",
       "fecha": "2026-10-20",
       "tipo": "TAREA",
-      "completada": true
+      "completada": false
     },
     {
       "id": "3b03cef3-d2a2-4f52-80eb-afc448a5592e",
