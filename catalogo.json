@@ -18,7 +18,7 @@
       "id": "62ff8c10-6cc9-4092-a381-e131ec11fa64",
       "nombre": "Fundamentos de la Administración",
       "trayecto": "T1-T1",
-      "codigo": "g",
+      "codigo": "",
       "color": "#188038"
     },
     {
@@ -247,6 +247,14 @@
       "titulo": "Conceptos Básicos Examen",
       "fecha": "2026-10-20",
       "tipo": "EXAMEN",
+      "completada": false
+    },
+    {
+      "id": "16048753-dc8a-4c46-9542-aec2d0770c01",
+      "materia": "62ff8c10-6cc9-4092-a381-e131ec11fa64",
+      "titulo": "Unidad de Aprendizaje I: Tema 1 \"Caracterización de la Administración\"",
+      "fecha": "2026-10-25",
+      "tipo": "TAREA",
       "completada": false
     }
   ]
