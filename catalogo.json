@@ -215,7 +215,15 @@
       "titulo": "Ensayo Digital",
       "fecha": "2026-10-29",
       "tipo": "TAREA",
-      "completada": false
+      "completada": false,
+      "archivos": [
+        {
+          "nombre": "Compendio Completo de Economía Política (3).pdf",
+          "path": "archivos/actividades/mv4at66z-compendio-completo-de-economia-politica-3.pdf",
+          "size": 146611,
+          "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mv4at66z-compendio-completo-de-economia-politica-3.pdf"
+        }
+      ]
     },
     {
       "id": "35771583-a571-4a62-beae-6e91777772f1",
