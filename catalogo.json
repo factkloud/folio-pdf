@@ -55,6 +55,13 @@
       "trayecto": "PROYECTO",
       "codigo": "cccccc",
       "color": "#1A73E8"
+    },
+    {
+      "id": "311a13f9-e7f6-4fd5-9926-44c75f288920",
+      "nombre": "as",
+      "trayecto": "AS",
+      "codigo": "",
+      "color": "#9334E6"
     }
   ],
   "apuntes": [
