@@ -175,5 +175,15 @@
         "size": 0
       }
     }
+  ],
+  "actividades": [
+    {
+      "id": "088fc82b-3ae4-4d94-8471-c56aa910f5e7",
+      "materia": "88701624-be10-44ec-b6d0-670d0be2b38b",
+      "titulo": "Conceptos Básicos 25%",
+      "fecha": "2026-10-20",
+      "tipo": "TAREA",
+      "completada": false
+    }
   ]
 }
