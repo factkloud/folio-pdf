@@ -255,7 +255,15 @@
       "titulo": "Unidad de Aprendizaje I: Tema 1 \"Caracterización de la Administración\"",
       "fecha": "2026-10-25",
       "tipo": "TAREA",
-      "completada": false
+      "completada": false,
+      "archivos": [
+        {
+          "nombre": "Gemini_Generated_Image_cv5jaucv5jaucv5j.jfif",
+          "path": "archivos/actividades/mv3woukr-gemini_generated_image_cv5jaucv5jaucv5j.jfif",
+          "size": 950348,
+          "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mv3woukr-gemini_generated_image_cv5jaucv5jaucv5j.jfif"
+        }
+      ]
     }
   ]
 }
