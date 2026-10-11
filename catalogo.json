@@ -192,6 +192,14 @@
       "fecha": "2026-11-10",
       "tipo": "TAREA",
       "completada": false
+    },
+    {
+      "id": "65c4996c-ec44-497b-b388-8fbc1e4dd8bf",
+      "materia": "88701624-be10-44ec-b6d0-670d0be2b38b",
+      "titulo": "Teoría de la Producción 25%",
+      "fecha": "2026-12-01",
+      "tipo": "TAREA",
+      "completada": false
     }
   ]
 }
