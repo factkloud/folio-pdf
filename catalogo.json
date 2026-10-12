@@ -183,7 +183,15 @@
       "titulo": "Conceptos Básicos 25%",
       "fecha": "2026-10-20",
       "tipo": "TAREA",
-      "completada": false
+      "completada": false,
+      "archivos": [
+        {
+          "nombre": "CONCEPTOS BASICOS (1).pdf",
+          "path": "archivos/actividades/mv5w1rdr-conceptos-basicos-1.pdf",
+          "size": 1206829,
+          "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mv5w1rdr-conceptos-basicos-1.pdf"
+        }
+      ]
     },
     {
       "id": "3b03cef3-d2a2-4f52-80eb-afc448a5592e",
