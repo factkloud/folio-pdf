@@ -298,6 +298,22 @@
           "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mv3yw4dc-caracterizacion-de-la-administracion.docx"
         }
       ]
+    },
+    {
+      "id": "21cf8d85-fc89-4a22-acfa-9f93bb64a0e0",
+      "materia": "62ff8c10-6cc9-4092-a381-e131ec11fa64",
+      "titulo": "ESCUELA DE LAS RELACIONES HUMANAS",
+      "fecha": "",
+      "tipo": "TAREA",
+      "completada": false,
+      "archivos": [
+        {
+          "nombre": "ESCUELA DE LAS RELACIONES HUMANAS .docx",
+          "path": "archivos/actividades/mv9zwzn0-escuela-de-las-relaciones-humanas.docx",
+          "size": 22421,
+          "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mv9zwzn0-escuela-de-las-relaciones-humanas.docx"
+        }
+      ]
     }
   ]
 }
