@@ -187,19 +187,6 @@
         "size": 1360292,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mvd50v8z-niif-pymes.pdf"
       }
-    },
-    {
-      "id": "1398a350-da26-4cab-b400-8cb07c8ea9e7",
-      "materia": "278a38fa-a40f-46a0-aece-59d70033b5d6",
-      "titulo": "clasificador-de-cuentas",
-      "fecha": "2026-10-17",
-      "etiquetas": [],
-      "archivo": {
-        "nombre": "clasificador-de-cuentas.pdf",
-        "path": "archivos/t1-t1/mvd56mi3-clasificador-de-cuentas.pdf",
-        "size": 799875,
-        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mvd56mi3-clasificador-de-cuentas.pdf"
-      }
     }
   ],
   "actividades": [
@@ -301,7 +288,15 @@
       "titulo": "Conceptos Básicos Examen",
       "fecha": "2026-10-20",
       "tipo": "EXAMEN",
-      "completada": false
+      "completada": false,
+      "archivos": [
+        {
+          "nombre": "GUÍA DE Contabilidad I - Conceptos, Historia y Objetivos Esenciales.pdf",
+          "path": "archivos/actividades/mvd8iccj-guia-de-contabilidad-i---conceptos-historia-y-objetivos-esen.pdf",
+          "size": 358175,
+          "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mvd8iccj-guia-de-contabilidad-i---conceptos-historia-y-objetivos-esen.pdf"
+        }
+      ]
     },
     {
       "id": "16048753-dc8a-4c46-9542-aec2d0770c01",
