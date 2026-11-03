@@ -200,6 +200,19 @@
         "size": 497566,
         "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mvr9o1uf-imagen_2026-10-27_183801179.png"
       }
+    },
+    {
+      "id": "ae6578f9-7157-435a-ab9b-a0e9661c1604",
+      "materia": "f80300e4-3041-4b00-a054-12db571c5fa3",
+      "titulo": "La Web del profe",
+      "fecha": "2026-11-02",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "La Web del profe",
+        "url": "https://drive.google.com/drive/folders/11PCaiU4f6k9jpYQSzXAvIMbRYha-lEwU",
+        "link": true,
+        "size": 0
+      }
     }
   ],
   "actividades": [
