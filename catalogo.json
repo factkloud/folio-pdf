@@ -213,6 +213,19 @@
         "link": true,
         "size": 0
       }
+    },
+    {
+      "id": "e009f909-1609-4f9d-9686-c707c00269b0",
+      "materia": "278a38fa-a40f-46a0-aece-59d70033b5d6",
+      "titulo": "clasificador-de-cuentas",
+      "fecha": "2026-11-04",
+      "etiquetas": [],
+      "archivo": {
+        "nombre": "clasificador-de-cuentas.pdf",
+        "path": "archivos/t1-t1/mw2gu6qa-clasificador-de-cuentas.pdf",
+        "size": 799875,
+        "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/t1-t1/mw2gu6qa-clasificador-de-cuentas.pdf"
+      }
     }
   ],
   "actividades": [
