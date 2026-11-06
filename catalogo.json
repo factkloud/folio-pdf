@@ -422,6 +422,28 @@
           "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mvd3ygol-6.jfif"
         }
       ]
+    },
+    {
+      "id": "7a7dda2f-37be-4333-84e5-88351bbe01b7",
+      "materia": "d4c59852-3b10-4c2b-a6c5-12027a282978",
+      "titulo": "Logos uptm",
+      "fecha": "",
+      "tipo": "TAREA",
+      "completada": false,
+      "archivos": [
+        {
+          "nombre": "ministerio-del-poder-popular-para-la-educacion.png",
+          "path": "archivos/actividades/mw5enhc6-ministerio-del-poder-popular-para-la-educacion.png",
+          "size": 37650,
+          "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mw5enhc6-ministerio-del-poder-popular-para-la-educacion.png"
+        },
+        {
+          "nombre": "-UPTM- (1) (1).png",
+          "path": "archivos/actividades/mw5enj48-uptm--1-1.png",
+          "size": 39748,
+          "url": "https://raw.githubusercontent.com/factkloud/folio-pdf/main/archivos/actividades/mw5enj48-uptm--1-1.png"
+        }
+      ]
     }
   ]
 }
